@@ -4,7 +4,9 @@
 
 
 
-<video controls src="presentation.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/7eb6fbb0-c5b6-4413-a44b-e08634a400c6
+
 
 Hello World, I'm Mercedes Domínguez and this is my personal repository that i call
 ART THE CÒTÉ. 
