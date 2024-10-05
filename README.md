@@ -1,5 +1,5 @@
 # *Mercedes Domínguez*
-# Hello, I present the ART THE CÔTÉ
+# Hello, I present to you the ART THE CÔTÉ
 ### Studying Full-Stack Developer.
 
 
