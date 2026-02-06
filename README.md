@@ -1,5 +1,5 @@
 # *mercedev*
-### Una mujer hecha por sí misma.
+### Una mujer hecha a sí misma.
 
 El sitio web oficial, [mercedev.es](https://mercedev.es), está actualmente en construcción.
 Mientras tanto, puedes seguir el proceso de desarrollo y ver el avance en el enlace de GitHub Pages:
